@@ -12,7 +12,7 @@ A simple object-oriented Python program that simulates a coffee machine. The cof
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/coffee-machine.git
+   git clone https://github.com/prantikm07/Coffee-Machine-Oops.git
    cd coffee-machine
    ```
 
